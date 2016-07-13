@@ -6,3 +6,4 @@ When a user interacts with the drop-down select box, the change event will trigg
 
 When the form is submitted, the checkTerms() function is called. This tests to see if the user has checked the box that includes they agree to the terms and conditions.
 
+![111](https://cloud.githubusercontent.com/assets/18538482/16814898/d156e480-4905-11e6-9636-588ec051df14.png)
