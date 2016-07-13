@@ -9,3 +9,11 @@ When the form is submitted, the checkTerms() function is called. This tests to s
 ![111](https://cloud.githubusercontent.com/assets/18538482/16814898/d156e480-4905-11e6-9636-588ec051df14.png)
 
 If not, the script will prevent the default behavior of the form element and stop it from submitting the form data to the server. It will show an error message to the user.
+
+## How to run the app locally?
+
+* In your own terminal type:
+```
+git clone https://github.com/bostonhuman/javascript-form-event
+```
+* Open `form.html` to run the app.
